@@ -39,13 +39,7 @@ header {
     padding-left: 0;
     gap: 47px;
 }
-.header-nav a {
-    font-weight: 600;
-    font-size: 20px;
-    color: #443737;
-    text-decoration: none;
-}
-.header-nav a:hover {
+ .header-nav a:hover {
     color:#FFC725;
 }
 .header-nav a::after {
